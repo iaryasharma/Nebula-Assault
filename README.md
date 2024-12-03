@@ -71,3 +71,34 @@ pip install pygame opencv-python mediapipe
 - **Boss:** Final boss with homing bullets.
 - **Sound Effects:** Laser shots, explosions, and more for immersive gameplay
 
+# Collaborators
+
+### Here are the amazing contributors to the **Nebula Assault** project: 
+
+<a href="https://github.com/iaryasharma/Nebula-assault/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=iaryasharma/Nebula-assault" />
+</a>
+
+<br>
+
+| Collaborators |
+|-------------|
+| [iaryasharma](https://github.com/iaryasharma) |
+| [Aman-Agarwal18](https://github.com/Aman-Agarwal18) 
+| [AnantKhandaka](https://github.com/AnantKhandaka) |
+| [IMPULSINATOR](https://github.com/IMPULSINATOR) | 
+## Contributing
+
+We welcome contributions to **Nebula Assault**! If you would like to contribute, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bugfix.
+3. Make your changes and commit them with clear and concise messages.
+4. Push your changes to your forked repository.
+5. Create a pull request to the main repository.
+
+Please read our [Contributing Guidelines](CONTRIBUTING.md) for more details.
+
+## Code of Conduct
+
+We expect all contributors to adhere to our [Code of Conduct](CODE_OF_CONDUCT.md). Please read it to understand the standards of behavior we expect from our community.
