@@ -1,6 +1,16 @@
-# Nebula Assault
+ult</h1>
 
-**Nebula Assault** is a retro-style space shooter game developed using Python and Pygame. Players control a spaceship and must survive waves of enemy ships, shoot down enemies, and eventually defeat a boss with erratic movements and homing bullets.
+<p align="center">
+    <img src="https://img.shields.io/github/stars/Arya0077/Nebula-Assault?style=social" alt="Stars">
+    <img src="https://img.shields.io/github/contributors/Arya0077/Nebula-Assault" alt="Collaborators">
+</p> 
+
+<p align="center"><
+    <img src="https://img.shields.io/github/license/Arya0077/Nebula-Assault" alt="License">
+    <img src="https://img.shields.io/github/forks/Arya0077/Nebula-Assault" alt="Forks">
+    <img src="https://img.shields.io/github/issues/Arya0077/Nebula-Assault" alt="Issues">strong>Nebula Assault</strong> is a retro-style space shooter game developed using Python and Pygame. Players control a spaceship and must survive waves of enemy ships, shoot down enemies, and eventually defeat a boss with erratic movements and homing bullets.</p>
+
+---
 
 ![Game Screenshot](res/images/output.gif)
 
@@ -19,8 +29,11 @@
 - [Controls](#controls)
 - [Dependencies](#dependencies)
 - [Game Assets](#game-assets)
-- [Credits](#credits)
+- [Collaborators](#collaborators)
+- [Contributing](#contributing)
+- [Code of Conduct](#code-of-conduct)
 - [License](#license)
+- [Contact](#contact)
 
 ## Installation
 
@@ -102,3 +115,14 @@ Please read our [Contributing Guidelines](CONTRIBUTING.md) for more details.
 ## Code of Conduct
 
 We expect all contributors to adhere to our [Code of Conduct](CODE_OF_CONDUCT.md). Please read it to understand the standards of behavior we expect from our community.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+If you have any questions or feedback, feel free to reach out to the project Owner:
+
+- Arya Sharma - [GitHub](https://github.com/iaryasharma)
+- Email: fragnite7717@gmail.com
