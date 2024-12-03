@@ -1,14 +1,12 @@
-ult</h1>
-
+<h1 align="center">Nebula Assault</h1>
 <p align="center">
     <img src="https://img.shields.io/github/stars/Arya0077/Nebula-Assault?style=social" alt="Stars">
     <img src="https://img.shields.io/github/contributors/Arya0077/Nebula-Assault" alt="Collaborators">
-</p> 
-
-<p align="center"><
     <img src="https://img.shields.io/github/license/Arya0077/Nebula-Assault" alt="License">
     <img src="https://img.shields.io/github/forks/Arya0077/Nebula-Assault" alt="Forks">
-    <img src="https://img.shields.io/github/issues/Arya0077/Nebula-Assault" alt="Issues">strong>Nebula Assault</strong> is a retro-style space shooter game developed using Python and Pygame. Players control a spaceship and must survive waves of enemy ships, shoot down enemies, and eventually defeat a boss with erratic movements and homing bullets.</p>
+    <img src="https://img.shields.io/github/issues/Arya0077/Nebula-Assault" alt="Issues">
+</p>
+<p align="center"><strong>Nebula Assault</strong> is a retro-style space shooter game developed using Python and Pygame. Players control a spaceship and must survive waves of enemy ships, shoot down enemies, and eventually defeat a boss with erratic movements and homing bullets.</p>
 
 ---
 
