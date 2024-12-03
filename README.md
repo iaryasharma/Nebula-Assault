@@ -9,8 +9,9 @@
 <p align="center"><strong>Nebula Assault</strong> is a retro-style space shooter game developed using Python and Pygame. Players control a spaceship and must survive waves of enemy ships, shoot down enemies, and eventually defeat a boss with erratic movements and homing bullets.</p>
 
 ---
-
-![Game Screenshot](res/images/output.gif)
+<p align="center">
+    <img src="res/images/output.gif" alt="Gameplay Preview">
+</p>
 
 ## Features
 
